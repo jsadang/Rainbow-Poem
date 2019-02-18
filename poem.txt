@@ -8,6 +8,8 @@ Green
 Indigo
 Recycle!
 Unicorn
+Candy
+Candy branch 1
 Yellow
 Red
 These are the colors of rainbow
